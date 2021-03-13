@@ -1,1 +1,1 @@
-# Donot-starve-toghther-modules
+# Don't starve toghther modules
